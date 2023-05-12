@@ -228,7 +228,7 @@ header > nav > i{
     padding: 1rem;
     width: 100%;
     background-color: var(--button-color);
-    color: #ffffff;
+    color: #000000;
     font-weight: bold;
     font-size: 1.1rem;
     cursor: pointer;
